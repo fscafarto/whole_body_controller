@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}/include",
+                "/usr/include/eigen3",
+                "/usr/include/gazebo-11",
+                "/usr/include/gazebo-11/gazebo/physics",
+                "/usr/include/ignition/transport8",
+                "/usr/include/ignition/math6",
+                "/usr/include/ignition/msgs5",
+                "/opt/ros/noetic/include",
+                "/usr/include/sdformat-9.5",
+                "/usr/include/ignition",
+                "/usr/include/ignition/common3",
+                "/usr/include/ignition/fuel_tools4",
+                "/usr/include/ignition/cmake2"
+
+            ],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
